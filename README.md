@@ -16,6 +16,12 @@ Pre-Render 使用 [prerender-spa-plugin](https://github.com/chrisvfritz/prerende
 
 [需求文档](http://wiki.iyunxiao.com/pages/viewpage.action?pageId=389061245)
 
+## 版本要求
+
+npm >= 6.1.0
+
+node >= 10.3.0
+
 
 ## Project setup
 ```
